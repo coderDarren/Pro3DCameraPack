@@ -10,9 +10,6 @@ This package is a robust camera/character controller system featuring RTS, RPG, 
 <strong>PDFs:</strong> 
 <a href="http://static1.squarespace.com/static/56dcb797b6aa6054fed09793/t/5754da22e321402ddeb71d33/1465178663385/Pro3DCamera_ReferenceGuide.pdf">Reference Guide</a> | <a href="http://static1.squarespace.com/static/56dcb797b6aa6054fed09793/t/5754da40e321402ddeb71dfe/1465178690401/Pro3DCamera_GettingStarted.pdf">Getting Started</a></br></br>
 
-<strong>Detail: </strong>
-<a href="http://darrenoneale.com/pro3dcamera">Full Version Notes</a></br></br>
-
 <strong>Includes:</strong></br>
 -Editor Window Tabs</br>
 |     •RPG Data</br>
